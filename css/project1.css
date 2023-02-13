@@ -72,10 +72,10 @@ h1
 }
 .stages
 {
-    width:23%;
+    width:22%;
     background-color: azure;
-    margin: 4px;
-    padding: 2px;
+    margin: 2px;
+    padding: 1px;
     text-align: center;
 }
 .stages h1
