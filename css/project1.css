@@ -1,8 +1,4 @@
-/*top bar starts from here onwards*/
-body
-{
-    overflow-x:hidden;
-}   
+/*top bar starts from here onwards*/  
 .topbar
 {
     background-color: rgb(234, 245, 245);
@@ -77,7 +73,7 @@ h1
 .sub-stages
 {
     background-color: azure;
-    margin: 8px;
+    margin: 2px;
     padding: 2px;
     text-align: center;
 }
