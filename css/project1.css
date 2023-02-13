@@ -1,4 +1,4 @@
-/*top bar starts from here onwards*/  
+/*top bar starts from here onwards*/
 .topbar
 {
     background-color: rgb(234, 245, 245);
@@ -72,17 +72,16 @@ h1
 }
 .stages
 {
-    width:22%;
+    width: 23%;
+    margin:4px;
     background-color: azure;
-    margin: 2px;
-    padding: 1px;
+    padding: 2px;
     text-align: center;
 }
 .stages h1
 {
     color: rgb(165, 185, 203);
 }
-
 /*welcome page ends here*/
 /*associated hospitals section starts from here onwards*/
 .hospitals
@@ -149,7 +148,7 @@ h1
 .sub-stages
 {
     background-color: azure;
-    margin-right: 8px;
+    margin: 8px;
     padding: 2px;
     text-align: center;
 }
