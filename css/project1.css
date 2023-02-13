@@ -1,4 +1,8 @@
 /*top bar starts from here onwards*/
+body
+{
+    overflow-x:hidden;
+}   
 .topbar
 {
     background-color: rgb(234, 245, 245);
