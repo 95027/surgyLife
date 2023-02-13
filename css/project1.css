@@ -72,9 +72,8 @@ h1
 }
 .sub-stages
 {
-    width:95%
     background-color: azure;
-    margin-right: 2px;
+    margin-right: 8px;
     padding: 2px;
     text-align: center;
 }
@@ -82,6 +81,14 @@ h1
 {
     color: rgb(165, 185, 203);
 }
+@media(min-width:350px) and (max-width:650px)
+{
+    .sub-stages
+    {
+        display: block;
+    }
+}
+
 /*welcome page ends here*/
 /*associated hospitals section starts from here onwards*/
 .hospitals
