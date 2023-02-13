@@ -70,14 +70,15 @@ h1
     text-align: center;
     font-size:xx-large;
 }
-.sub-stages
+.stages
 {
+    width:23px;
     background-color: azure;
-    margin-right: 8px;
+    margin: 4px;
     padding: 2px;
     text-align: center;
 }
-.sub-stages h1
+.stages h1
 {
     color: rgb(165, 185, 203);
 }
@@ -151,6 +152,13 @@ h1
 {
     padding-top: 20px;
     padding-bottom: 20px;
+}
+.sub-stages
+{
+    background-color: azure;
+    margin-right: 8px;
+    padding: 2px;
+    text-align: center;
 }
 /*why choose us section ends here*/
 .history
