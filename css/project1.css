@@ -85,7 +85,7 @@ h1
 {
     .stage
     {
-        display: flex !important;
+        display: inline !important;
     }
 }
 /*welcome page ends here*/
