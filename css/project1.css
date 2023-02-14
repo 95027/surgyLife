@@ -81,20 +81,6 @@ h1
 {
     color: rgb(165, 185, 203);
 }
-@media(min-width:350px) and (max-width:650px)
-{
-    .stages
-    {
-        display: block !important;
-    }
-}
-@media(min-width:650px) and (max-width:1200px)
-{
-    .stages
-    {
-        display: flex !important;
-    }
-}
 /*welcome page ends here*/
 /*associated hospitals section starts from here onwards*/
 .hospitals
