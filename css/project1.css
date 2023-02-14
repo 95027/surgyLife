@@ -88,6 +88,13 @@ h1
         display: block !important;
     }
 }
+@media(min-width:650px)
+{
+    .stages
+    {
+        display: flex !important;
+    }
+}
 /*welcome page ends here*/
 /*associated hospitals section starts from here onwards*/
 .hospitals
