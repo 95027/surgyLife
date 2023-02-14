@@ -70,23 +70,21 @@ h1
     text-align: center;
     font-size:xx-large;
 }
+.stage
+{
+    background-color:azure;
+    display:flex;
+}
 .stages
 {
     margin:2px;
-    background-color: azure;
+   /* background-color: azure;*/
     padding: 2px;
     text-align: center;
 }
 .stages h1
 {
     color: rgb(165, 185, 203);
-}
-@media(min-width:650px) and (max-width:1200px)
-{
-    .stage
-    {
-        display: inline !important;
-    }
 }
 /*welcome page ends here*/
 /*associated hospitals section starts from here onwards*/
