@@ -83,7 +83,7 @@ h1
 }
 @media(min-width:650px)
 {
-    .stages
+    .stages-flex
     {
         display: flex;
     }
